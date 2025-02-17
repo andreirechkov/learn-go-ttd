@@ -1,4 +1,4 @@
-package main
+package arraySlices
 
 func Sum(numbers []int) (result int) {
 	for _, number := range numbers {
